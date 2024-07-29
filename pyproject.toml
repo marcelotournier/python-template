@@ -1,4 +1,4 @@
 [project]
 name = "hello-test"
 version = "0.1.0"
-dependencies = []
+dependencies = ["prospector==1.10.3"]
